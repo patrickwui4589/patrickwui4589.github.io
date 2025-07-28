@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://apprendpython.github.io/sitemap.xml
+Sitemap: https://patrickwui4589.github.io
